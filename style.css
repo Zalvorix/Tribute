@@ -1,0 +1,32 @@
+.myimg{
+ width:300px;
+ height:300px;
+ object-fit:cover;
+ border-radius:50%;
+ display: block;
+ margin: 0 auto;																																																																							
+}
+span {
+text-align: center;
+margin: 10px; 
+font-size: 20px;   
+}
+h3 {
+font-size: 1.5em;
+}
+body {
+color:white ;
+background-color:#53347a ;
+}
+button {
+font-color: white;
+background-color: white;
+}
+.link {
+color: white;
+text-decoration: none;
+}
+.link2 {
+color: white;
+font-size: 25px;
+}
